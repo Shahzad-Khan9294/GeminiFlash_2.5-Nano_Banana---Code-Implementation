@@ -18,7 +18,7 @@ Few ScreenShot Results:
     <img src="https://github.com/user-attachments/assets/ee2332d8-ee70-4418-ad94-80cf5de36e9a" width="220" />
 </div>
 
-### Prompt usd: 
+### Prompt used: 
 "I'd like to see the room furnished with a bed, a sofa, plants, rugs and table lamps but use these images of bed I’m attaching here"
 
 ## Installation
